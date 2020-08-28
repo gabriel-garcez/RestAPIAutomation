@@ -1,0 +1,5 @@
+C:\Users\60003375\source\repos\APIAutomationTest\APIAutomationTest\bin\Debug\netstandard2.0\APIAutomationTest.deps.json
+C:\Users\60003375\source\repos\APIAutomationTest\APIAutomationTest\bin\Debug\netstandard2.0\APIAutomationTest.dll
+C:\Users\60003375\source\repos\APIAutomationTest\APIAutomationTest\obj\Debug\netstandard2.0\APIAutomationTest.csprojAssemblyReference.cache
+C:\Users\60003375\source\repos\APIAutomationTest\APIAutomationTest\obj\Debug\netstandard2.0\APIAutomationTest.AssemblyInfoInputs.cache
+C:\Users\60003375\source\repos\APIAutomationTest\APIAutomationTest\obj\Debug\netstandard2.0\APIAutomationTest.AssemblyInfo.cs
